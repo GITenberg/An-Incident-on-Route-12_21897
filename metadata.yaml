@@ -1,0 +1,36 @@
+_repo: An-Incident-on-Route-12_21897
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schmitz, James H.
+    alias: Schmitz, James Henry
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '24957'
+    url: http://www.gutenberg.org/2009/agents/24957
+    wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
+description: An Incident on Route 12 is presented here in a high quality paperback
+  edition. This popular classic work by James H. Schmitz is in the English language,
+  and may not include graphics or images from the original edition. If you enjoy the
+  works of James H. Schmitz then we highly recommend this publication for your book
+  collection.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: An Incident on Route 12
+url: http://www.gutenberg.org/ebooks/21897
